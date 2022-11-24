@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1669253913009,
+    "products": [
+      {
+        "name": "hilux",
+        "price": "$3000000",
+        "description": "mod. 2002, motor 3.0, tracion trasera",
+        "code": 324,
+        "stock": 2,
+        "image": "https://i.postimg.cc/bv22PTtc/toyota2002.jpg",
+        "id": 1,
+        "timestamp": 1669253482381
+      }
+    ]
+  }
+]
